@@ -77,7 +77,9 @@ title('Graphical Representation of output Signal y');
 
 ### CALCULATIONS:
 
+<img width="992" height="1600" alt="image" src="https://github.com/user-attachments/assets/0b30da1e-ef09-4330-922b-f502339884fe" />
 
+<img width="894" height="508" alt="linear" src="https://github.com/user-attachments/assets/68945ce6-9110-447f-92a4-1d6390f496c8" />
 
 
 ### SAMPLE OUTPUT:
